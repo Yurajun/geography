@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'AGAvantGardeCyr';
+    src: url('AGAvantGardeCyrBook.eot');
+    src: local('AGAvantGardeCyr Book'), local('AGAvantGardeCyrBook'),
+        url('AGAvantGardeCyrBook.eot?#iefix') format('embedded-opentype'),
+        url('AGAvantGardeCyrBook.woff2') format('woff2'),
+        url('AGAvantGardeCyrBook.woff') format('woff'),
+        url('AGAvantGardeCyrBook.ttf') format('truetype'),
+        url('AGAvantGardeCyrBook.svg#AGAvantGardeCyrBook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
